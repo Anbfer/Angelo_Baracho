@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Anbfer
-- 👀 I’m interested in all that involves gaming, programing, science and star wars stuff.
-- 🌱 I’m currently learning JavaScript, focused for web development and soon I want to learn more about the heavy back and business.
+<h1>Wellcome Dev!</h1>
+<h4 aling="center">🇬🇧 Hello there! I'm Angelo! Wellcome to my GitHub profile!🇬🇧 </h4>
+-------------------------------------------------------------------------------------------------
+<h4 aling="center">🇧🇷Olá! Eu sou o Ângelo, e seja bem vindo ao meu perfil do GitHub!🇧🇷</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anbfer)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anbfer&show_icons=true&theme=dark)
+
 
 
 <!---
