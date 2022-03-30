@@ -5,7 +5,7 @@
 
 # Bem-vindo Dev,
  _*tenho 23 anos, sou de São Paulo - SP, um nerd apaixonado por jogos, Star Wars e passar raiva programando. Seja bem vindo ao meu perfil do GitHub!*_
- <p dir="auto" align="left"><img src="https://c.tenor.com/X3xgtM3zFZkAAAAd/captain-rex-rex.gif" width="350" height="350"/></p>
+ <p dir="auto" align="center"><img src="https://c.tenor.com/X3xgtM3zFZkAAAAd/captain-rex-rex.gif" width="350" height="350"/></p>
 <span> 
 <dl>
  <dt><em>_Ocupação e Estudos</em> 📚🪖</dt>
