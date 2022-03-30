@@ -29,7 +29,7 @@ Hello there, I'm Angelo, wellcome to my GitHub profile!
 
 [![Angelo GitHub stats](https://github-readme-stats.vercel.app/api?username=anbfer&show_icons=true&theme=dark)](https://github.com/Anbfer/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anbfer&theme=dark&layout&langs_count=5)](https://github.com/Anbfer/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anbfer&theme=dark&layout&langs_count=5)](https://github.com/Anbfer/)
 
 
 
