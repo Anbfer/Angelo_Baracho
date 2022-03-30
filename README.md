@@ -1,6 +1,7 @@
 <h1>Wellcome Dev!</h1>
 <h4 aling="center">🇬🇧 Hello there! I'm Angelo! Wellcome to my GitHub profile!🇬🇧 </h4>
 -------------------------------------------------------------------------------------------------
+<h1>Bem-vindo Dev!</h1>
 <h4 aling="center">🇧🇷Olá! Eu sou o Ângelo, e seja bem vindo ao meu perfil do GitHub!🇧🇷</h4>
  <p aling="left" style="margin-bottom:2px;">➠Atualmente sou militar da Força Aérea Brasileira full time, e aluno da Alura nas horas vagas!<br>
  ➠ Ferramentas e tecnoligias</p>
