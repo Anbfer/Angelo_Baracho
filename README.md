@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------------------------------
 
 # Bem-vindo Dev,
- _*tenho 23 anos, sou de São Paulo - SP, um nerd apaixonado por jogos, Star Wars e passar raiva programando. Seja bem vindo ao meu perfil do GitHub!*_
+ _*tenho 23 anos, sou de São Paulo - SP, um nerd apaixonado por jogos, Star Wars e por passar raiva programando. Seja bem vindo ao meu perfil do GitHub!*_
  <p dir="auto" align="center"><img src="https://c.tenor.com/X3xgtM3zFZkAAAAd/captain-rex-rex.gif" width="350" height="350"/></p>
 <span> 
 <dl>
@@ -16,7 +16,7 @@
     </dd>
   <dt><em>_Algumas das linguagens e ferramentas que utilizo</em></dt></br>
     <dd>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50" height="50"/>
     </dd>
 </dl>
 </span>
