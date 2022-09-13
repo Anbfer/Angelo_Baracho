@@ -1,5 +1,5 @@
 # Angelo Baracho Ferreira
- Socials: 
+<a target="_blank" href="https://www.linkedin.com/in/angelo-baracho-abf/" alt="Perfil do LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a target="_blank" href="https://codepen.io/angelo-ferreira"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 
 -------------------------------------------------------------------------------------------------
 
