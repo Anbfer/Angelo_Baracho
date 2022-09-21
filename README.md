@@ -18,7 +18,7 @@
    
    - [Portifólio de pequenos projetos e atividades em Java](https://github.com/Anbfer/Projetos_Senac_ADO)
    
-  <dt><em>_Algumas das linguagens e ferramentas que utilizo</em></dt></br>
+  <dt><em>_Algumas das linguagens e ferramentas que tenho experiência</em></dt></br>
     <dd>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50" height="50"/>
     </dd>
