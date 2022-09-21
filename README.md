@@ -16,7 +16,7 @@
 
    - [Portifólio voltado a desenvolvimento Web com JavaScript](https://github.com/Anbfer/portifolio)
    
-   - [Portifólio de pequenos projetos e atividades em Java](https://github.com/Anbfer/Projetos_Senac_ADO)
+   - [Portifólio de pequenos projetos e atividades em Java, desenvolvidos durante a graduação](https://github.com/Anbfer/Projetos_Senac_ADO)
    
   <dt><em>_Algumas das linguagens e ferramentas que tenho experiência</em></dt></br>
     <dd>
