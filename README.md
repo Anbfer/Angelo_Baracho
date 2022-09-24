@@ -24,7 +24,7 @@
   
 <dt><em>_Alguns dos meus projetos</em></dt>
  
- - <code><a target="_blank" href="https://github.com/Anbfer/portifolio">Portifólio voltado a desenvolvimento Web com JavaScript></a></code>
+ - <code><a target="_blank" href="https://github.com/Anbfer/portifolio">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
  - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java, desenvolvidos durante a graduação</a></code>
 </span>
 
