@@ -10,24 +10,8 @@
  <dt><em>_Ocupação e Estudos</em> 📚🪖</dt>
     
  - Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC
- - Google Career Certificate Fundamentos do Gerenciamento de Projetos
+ - Google Career Certificate Fundamentos do Gerenciamento de Projetos 
  
- <dt><em>_Skills</em> 🖥️</dt>
- <dd> Metodologias ágeis, Otimização SEO, Gerenciamento de projetos, entre outras.</dd>
- 
-<div>
-<a target="_blank" href="https://github.com/anbfer"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbfer&&layout=compact&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anbfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-  
-<dt><em>_Alguns dos meus projetos</em></dt>
- 
- - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
- - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
-</span>
-
 <dt><em>_Linguagens e Ferramentas</em></dt></br>
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40"/></code>
@@ -38,6 +22,22 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40"/></code>
+ 
+<dt><em>_Alguns dos meus projetos</em></dt>
+ 
+ - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
+ - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
+ 
+ <dt><em>_Skills</em> 🖥️</dt>
+<dd> Metodologias ágeis, Otimização SEO, Gerenciamento de projetos, entre outras.</dd>
+ 
+<div>
+<a target="_blank" href="https://github.com/anbfer"></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbfer&&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anbfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+</span>
 
 <!---
 Anbfer/Anbfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
