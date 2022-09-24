@@ -13,7 +13,7 @@
  - Google Career Certificate Fundamentos do Gerenciamento de Projetos
  
  <dt><em>_Skills</em> 🖥️</dt>
- <dd> Programação Orientada a Objetos, Metodologias ágeis, Otimização SEO, Gerenciamento de projetos, Manipulação do DOM, entre outras.</dd>
+ <dd> Metodologias ágeis, Otimização SEO, Gerenciamento de projetos, entre outras.</dd>
  
 <div>
 <a target="_blank" href="https://github.com/anbfer"></a>
