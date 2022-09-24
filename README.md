@@ -4,7 +4,7 @@
 # Bem-vindo Dev,
  _*Eu sou o Ângelo, tenho 24 anos, sou de São Paulo - SP, um nerd apaixonado por jogos, Star Wars e por programação.*_
  
-<img align="right" width="300" src="https://docpop.org/wp-content/uploads/2019/09/at-at-walker-green-screen-small.gif"/>
+<img align="right" width="500" src="https://docpop.org/wp-content/uploads/2019/09/at-at-walker-green-screen-small.gif"/>
 <span> 
 <dl>
  <dt><em>_Ocupação e Estudos</em> 📚🪖</dt>
