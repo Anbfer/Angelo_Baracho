@@ -12,6 +12,7 @@
     
  - Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC
  - Google Career Certificate Fundamentos do Gerenciamento de Projetos 
+ - Militar 
  
 <dt><em>_Linguagens e Ferramentas</em></dt></br>
 
@@ -30,7 +31,7 @@
  - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
  
  <dt><em>_Skills</em> 🖥️</dt>
-<dd> Metodologias ágeis, Otimização SEO, Gerenciamento de projetos, entre outras.</dd>
+<dd> Metodologias ágeis, Otimização SEO, Gerenciamento de projetos, Python basics, Java basics, JavaScript, Wordpress.</dd>
  
 <div>
 <a target="_blank" href="https://github.com/anbfer"></a>
