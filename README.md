@@ -6,32 +6,40 @@
  _*Eu sou o Ângelo, tenho 24 anos, sou de São Paulo - SP, um nerd apaixonado por jogos, Star Wars e programação.*_
  
 <img align="right" width="350" src="https://docpop.org/wp-content/uploads/2019/09/at-at-walker-green-screen-small.gif"/>
-<span> 
-<dl>
- <dt><em>_Ocupação e Estudos</em> 📚🪖</dt>
-    
- - Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC
- - Google Career Certificate Fundamentos do Gerenciamento de Projetos 
- - Militar 
- 
-<dt><em>_Linguagens e Ferramentas</em></dt></br>
+<span>
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40"/></code>
+ <dt><em>_Skills</em> 🖥️</dt>
+
+- Noções de Gerenciamento de projetos
+- Noções de Metodologias ágeis
+- JavaScript (Manipulação de DOM, POO, Arrays e Laços de repetição)
+- Python basics
+- Java basics
+- Noções em Wordpress
+- Noções em Otimização SEO
+
+<dl>
+ <dt><em>_Ocupação e Estudos</em> </dt>
+    
+ - 📚 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC - (Dezembro/2024)
+ - 📚 Google Career Certificate Fundamentos do Gerenciamento de Projetos - (Setembro/2022)
+ - 🪖 Cabo da Força Aérea Brasileira - (2017-2024);
+ 
+<dt><em>_Tecnologias</em></dt></br>
+
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30"/></code>
  
 <dt><em>_Alguns dos meus projetos</em></dt>
  
  - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
  - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
- 
- <dt><em>_Skills</em> 🖥️</dt>
-<dd> Metodologias ágeis, Otimização SEO, Gerenciamento de projetos, Python basics, Java basics, JavaScript, Wordpress.</dd>
  
 <div>
 <a target="_blank" href="https://github.com/anbfer"></a>
