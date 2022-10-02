@@ -13,6 +13,7 @@
 - Noções de Gerenciamento de projetos
 - Noções de Metodologias ágeis
 - JavaScript (Manipulação de DOM, POO, Arrays e Laços de repetição)
+- MySQL basics
 - Python basics
 - Java basics
 - Noções em Wordpress
