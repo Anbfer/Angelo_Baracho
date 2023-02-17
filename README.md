@@ -2,7 +2,7 @@
 <a target="_blank" href="https://cursos.alura.com.br/user/ferreira-angelo98" alt="Perfil da Alura"><img src="https://cuponomia-a.akamaihd.net/img/stores/original/alura-637582521816079946.png" width="45" height="30"/></a>
 
 -------------------------------------------------------------------------------------------------
-[# English Version](Welcome-Dev)
+[English Version](#Welcome-Dev)
 # Bem-vindo Dev,
  _*Eu sou o Ângelo, tenho 24 anos, sou de São Paulo - SP, um nerd apaixonado por jogos, Star Wars e programação.*_
  
