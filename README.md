@@ -2,6 +2,7 @@
 <a target="_blank" href="https://cursos.alura.com.br/user/ferreira-angelo98" alt="Perfil da Alura"><img src="https://cuponomia-a.akamaihd.net/img/stores/original/alura-637582521816079946.png" width="45" height="30"/></a>
 
 -------------------------------------------------------------------------------------------------
+[# English Version](Welcome-Dev)
 # Bem-vindo Dev,
  _*Eu sou o Ângelo, tenho 24 anos, sou de São Paulo - SP, um nerd apaixonado por jogos, Star Wars e programação.*_
  
@@ -56,3 +57,12 @@ You can click the Preview link to take a look at your changes.
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes
 https://github.com/anuraghazra/github-readme-stats
 --->
+
+
+
+<a target="_blank" href="https://www.linkedin.com/in/angelo-baracho-abf/" alt="Perfil do LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a target="_blank" href="https://codepen.io/angelo-ferreira"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+<a target="_blank" href="https://cursos.alura.com.br/user/ferreira-angelo98" alt="Perfil da Alura"><img src="https://cuponomia-a.akamaihd.net/img/stores/original/alura-637582521816079946.png" width="45" height="30"/></a>
+
+-------------------------------------------------------------------------------------------------
+# Welcome Dev
+_*I am Ângelo, I'm 24 years old, from São Paulo - SP, a nerd passionate about games, Star Wars, and programming.*_
