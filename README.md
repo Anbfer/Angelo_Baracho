@@ -1,12 +1,14 @@
+[English Version](#Welcome-Dev)
+
 ![Snake animation](https://github.com/Anbfer/Anbfer/blob/output/github-contribution-grid-snake.svg)
 
 <a target="_blank" href="https://www.linkedin.com/in/angelo-baracho-abf/" alt="Perfil do LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a target="_blank" href="https://codepen.io/angelo-ferreira"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 <a target="_blank" href="https://cursos.alura.com.br/user/ferreira-angelo98" alt="Perfil da Alura"><img src="https://cuponomia-a.akamaihd.net/img/stores/original/alura-637582521816079946.png" width="45" height="30"/></a>
 
 -------------------------------------------------------------------------------------------------
-[English Version](#Welcome-Dev)
+
 # Bem-vindo Dev,
- _*Eu sou o Ângelo, tenho 24 anos, sou de São Paulo - SP, um nerd apaixonado por jogos, Star Wars e programação.*_
+ _*Eu sou o Ângelo, tenho 24 anos, sou de São Paulo - SP, um geek apaixonado por jogos, Star Wars e programação.*_
  
 <img align="right" width="350" src="https://docpop.org/wp-content/uploads/2019/09/at-at-walker-green-screen-small.gif"/>
 <span>
@@ -50,7 +52,7 @@
 <a target="_blank" href="https://github.com/anbfer"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbfer&&layout=compact&theme=dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anbfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=anbfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 </span>
@@ -69,7 +71,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 -------------------------------------------------------------------------------------------------
 # Welcome Dev
-_*I am Ângelo, I'm 24 years old, from São Paulo - SP, a nerd passionate about games, Star Wars, and programming.*_
+_*I am Ângelo, I'm 24, I'm from São Paulo - SP, a geek passionate about games, Star Wars, and programming.*_
 
 <img align="right" width="350" src="https://docpop.org/wp-content/uploads/2019/09/at-at-walker-green-screen-small.gif"/>
 <span>
@@ -112,7 +114,7 @@ _*I am Ângelo, I'm 24 years old, from São Paulo - SP, a nerd passionate about 
 <div>
 <a target="_blank" href="https://github.com/anbfer"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbfer&&layout=compact&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anbfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=anbfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
  
  </span>
