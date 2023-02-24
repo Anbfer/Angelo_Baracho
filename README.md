@@ -1,4 +1,4 @@
-[_English Version](#Welcome-Dev)
+[_English Version_](#Welcome-Dev)
 
 ![Snake animation](https://github.com/Anbfer/Anbfer/blob/output/github-contribution-grid-snake.svg)
 
