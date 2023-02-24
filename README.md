@@ -7,8 +7,8 @@
 
 -------------------------------------------------------------------------------------------------
 
-# Bem-vindo Dev,
- _*Eu sou o Ângelo, tenho 24 anos, sou de São Paulo - SP, um geek apaixonado por jogos, Star Wars e programação.*_
+# Bem-vindo Dev
+ _*Eu sou o Ângelo, tenho 24 anos, sou de São Paulo - SP, apaixonado por jogos, Star Wars e programação.*_
  
 <img align="right" width="350" src="https://docpop.org/wp-content/uploads/2019/09/at-at-walker-green-screen-small.gif"/>
 <span>
