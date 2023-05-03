@@ -15,15 +15,15 @@
 
  <dt><em>_Skills</em> 🖥️</dt>
 
-- Noções de Gerenciamento de projetos
-- Noções de Metodologias ágeis
+- Gerenciamento de projetos
+- Metodologias ágeis
 - POO
-- JavaScript (Manipulação de DOM, POO, Arrays e Laços de repetição)
-- MySQL basics
-- Python basics
-- Java basics
-- Noções em Wordpress
-- Noções em Otimização SEO
+- JavaScript
+- MySQL
+- Python
+- Java
+- Wordpress
+- SEO
 
 <dl>
  <dt><em>_Ocupação e Estudos</em> </dt>
@@ -31,6 +31,11 @@
  - 📚 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC - (Dezembro/2024)
  - 📚 Google Career Certificate Fundamentos do Gerenciamento de Projetos - (Setembro/2022)
  - 🪖 Cabo da Força Aérea Brasileira - (2017-2024);
+ 
+ <dt><em>_Alguns dos meus projetos</em></dt>
+ 
+ - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
+ - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
  
 <dt><em>_Tecnologias</em></dt></br>
 
@@ -42,11 +47,6 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="30"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30"/></code>
- 
-<dt><em>_Alguns dos meus projetos</em></dt>
- 
- - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
- - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
  
 <div>
 <a target="_blank" href="https://github.com/anbfer"></a>
@@ -78,15 +78,15 @@ _*I am Ângelo, I'm 24, I'm from São Paulo - SP, a geek passionate about games,
 
  <dt><em>_Skills</em> 🖥️</dt>
  
-- Project management basics
-- Agile methodologies basic
+- Project management
+- Agile methodologies
 - OOP
 - JavaScript
-- MySQL basics
-- Python basics
-- Java basics
-- Understanding of Wordpress
-- Understanding of SEO Optimization
+- MySQL
+- Python 
+- Java 
+- Wordpress
+- SEO
  
  <dl>
  <dt><em>_Occupation and Studies</em> </dt>
@@ -94,6 +94,11 @@ _*I am Ângelo, I'm 24, I'm from São Paulo - SP, a geek passionate about games,
  - 📚 I am an undergraduate student in Systems Analysis and Development at Centro Universitário SENAC, expected to graduate in December 2024
  - 📚 Google Career Certificate Project Management Foundations - (September/2022)
  - 🪖 Brazilian Air Force Corporal - (2017-2024);
+  
+<dt><em>_Some of my projects</em></dt>
+ 
+ - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portfolio focused on Web development with JavaScript</a></code>
+ - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portfolio of small Java projects and activities</a></code>
  
 <dt><em>_Technologies</em></dt></br>
  
@@ -105,11 +110,6 @@ _*I am Ângelo, I'm 24, I'm from São Paulo - SP, a geek passionate about games,
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="30"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30"/></code>
- 
-<dt><em>_Some of my projects</em></dt>
- 
- - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portfolio focused on Web development with JavaScript</a></code>
- - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portfolio of small Java projects and activities</a></code>
  
 <div>
 <a target="_blank" href="https://github.com/anbfer"></a>
