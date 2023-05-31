@@ -17,11 +17,13 @@
 
 - Gerenciamento de projetos
 - Metodologias ágeis
-- POO
+- Java
 - JavaScript
+- React.js
+- Node.js
+- Bootstrap v5
 - MySQL
 - Python
-- Java
 - Wordpress
 - SEO
 
@@ -31,6 +33,7 @@
  - 📚 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC - (Dezembro/2024)
  - 📚 Google Career Certificate Fundamentos do Gerenciamento de Projetos - (Setembro/2022)
  - 🪖 Cabo da Força Aérea Brasileira - (2017-2024);
+ - 📚 Técnico em Administração pela Etec Irmã Agostina (Dezembro/2016);
  
  <dt><em>_Alguns dos meus projetos</em></dt>
  
@@ -80,11 +83,13 @@ _*I am Ângelo, I'm 24, I'm from São Paulo - SP, a geek passionate about games,
  
 - Project management
 - Agile methodologies
-- OOP
+- Java
 - JavaScript
+- React.js
+- Node.js
+- Bootstrap v5
 - MySQL
-- Python 
-- Java 
+- Python
 - Wordpress
 - SEO
  
@@ -93,7 +98,8 @@ _*I am Ângelo, I'm 24, I'm from São Paulo - SP, a geek passionate about games,
     
  - 📚 I am an undergraduate student in Systems Analysis and Development at Centro Universitário SENAC, expected to graduate in December 2024
  - 📚 Google Career Certificate Project Management Foundations - (September/2022)
- - 🪖 Brazilian Air Force Corporal - (2017-2024);
+ - 🪖 Força Aérea Brasileira, Corporal - (2017-2024)
+ - 📚 Diploma in Business and Administration at Etec Irmã Agostina - (December/2016)
   
 <dt><em>_Some of my projects</em></dt>
  
