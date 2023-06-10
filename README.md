@@ -39,6 +39,8 @@
  
  - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
  - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
+ - <code><a target="_blank" href="https://github.com/Anbfer/Notepad--">Notepad-- um bloco de notas desenvolvido em Java</a>
+ </code>
  
 <dt><em>_Tecnologias</em></dt></br>
 
@@ -105,6 +107,7 @@ _*I am Ângelo, I'm 24, I'm from São Paulo - SP, a geek passionate about games,
  
  - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portfolio focused on Web development with JavaScript</a></code>
  - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portfolio of small Java projects and activities</a></code>
+ - <code><a target="_blank" href="https://github.com/Anbfer/Notepad--">Notepad-- a notepad made with Java</a></code>
  
 <dt><em>_Technologies</em></dt></br>
  
