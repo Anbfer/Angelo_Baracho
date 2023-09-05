@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Anbfer/Anbfer/blob/output/github-contribution-grid-snake.svg"" />
+  <img src="https://github.com/Anbfer/Anbfer/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 <a target="_blank" href="https://www.linkedin.com/in/angelo-baracho-abf/" alt="Perfil do LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a target="_blank" href="https://codepen.io/angelo-ferreira"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
