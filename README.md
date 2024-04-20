@@ -21,7 +21,8 @@
 - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
 - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
 - <code><a target="_blank" href="https://github.com/Anbfer/Notepad--">Notepad-- um bloco de notas desenvolvido em Java</a></code>
- <dt><em>_Skills</em> 🖥️</dt>
+
+<dt><em>_Skills</em> 🖥️</dt>
 
 - Gerenciamento de projetos
 - Lider de equipe
