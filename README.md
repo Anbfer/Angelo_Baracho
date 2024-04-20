@@ -18,9 +18,9 @@
  
  <dt><em>_Alguns dos meus projetos</em></dt>
 - <code><a target="_blank" href="https://github.com/Anbfer/PI-4-Semestre">Projeto utilizando Spring Framework para um sistema web simulando uma loja virtual e back-office</a></code>
- - <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
- - <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
- - <code><a target="_blank" href="https://github.com/Anbfer/Notepad--">Notepad-- um bloco de notas desenvolvido em Java</a></code>
+- <code><a target="_blank" href="https://github.com/Anbfer/Portifolio_web_js">Portifólio voltado a desenvolvimento Web com JavaScript</a></code>
+- <code><a target="_blank" href="https://github.com/Anbfer/Projetos_Senac_ADO">Portifólio de pequenos projetos e atividades em Java</a></code>
+- <code><a target="_blank" href="https://github.com/Anbfer/Notepad--">Notepad-- um bloco de notas desenvolvido em Java</a></code>
  <dt><em>_Skills</em> 🖥️</dt>
 
 - Gerenciamento de projetos
