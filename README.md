@@ -43,7 +43,7 @@
     
  - 📚 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC - (Dezembro/2024)
  - 📚 Google Career Certificate Fundamentos do Gerenciamento de Projetos - (Setembro/2022)
- - 🪖 Cabo da Força Aérea Brasileira - (2017-2024);
+ - ✈️ Cabo da Força Aérea Brasileira - (Agosto/2017 a Julho/2024);
  - 📚 Técnico em Administração pela Etec Irmã Agostina (Dezembro/2016);
 
 <dt><em>_Tecnologias</em></dt></br>
